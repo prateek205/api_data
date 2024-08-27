@@ -65,11 +65,15 @@
       "id": 2,
       "category": "mobile",
       "imgSrc": "https://m.media-amazon.com/images/I/71PjpS59XLL._AC_UY218_.jpg",
-      "smallImg1": "https://m.media-amazon.com/images/I/71PjpS59XLL._SX679_.jpg",
-      "smallImg2": "https://m.media-amazon.com/images/I/51URG-tRYJL._SX679_.jpg",
-      "smallImg3": "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
-      "smallImg4": "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg",
-      "smallImg5": "https://m.media-amazon.com/images/I/61KbaBWserL._SX679_.jpg",
+      "img": [
+        {
+          "smallImg1": "https://m.media-amazon.com/images/I/71PjpS59XLL._SX679_.jpg",
+          "smallImg2": "https://m.media-amazon.com/images/I/51URG-tRYJL._SX679_.jpg",
+          "smallImg3": "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
+          "smallImg4": "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg",
+          "smallImg5": "https://m.media-amazon.com/images/I/61KbaBWserL._SX679_.jpg"
+        }
+      ],
       "title": "Apple iPhone 15 Plus (Blue, 256 GB)",
       "description1": "256 GB ROM",
       "description2": "17.02 cm (6.7 inch) Super Retina XDR Display",
