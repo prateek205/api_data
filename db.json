@@ -569,11 +569,15 @@
       "features": true,
       "category": "mobile",
       "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/e/q/-original-imahymwzqgbcgcn2.jpeg?q=70",
-      "smallImg1": "https://m.media-amazon.com/images/I/71Gog1FR3JL._SX569_.jpg",
-      "smallImg2": "https://m.media-amazon.com/images/I/81YczbEQw2L._SX569_.jpg",
-      "smallImg3": "https://m.media-amazon.com/images/I/61hm5E7cQFL._SX569_.jpg",
-      "smallImg4": "https://m.media-amazon.com/images/I/81bjYDWgt4L._SX569_.jpg",
-      "smallImg5": "https://m.media-amazon.com/images/I/81pMRoVVRqL._SX569_.jpg",
+      "img": [
+        {
+          "smallImg1": "https://m.media-amazon.com/images/I/71Gog1FR3JL._SX569_.jpg",
+          "smallImg2": "https://m.media-amazon.com/images/I/81YczbEQw2L._SX569_.jpg",
+          "smallImg3": "https://m.media-amazon.com/images/I/61hm5E7cQFL._SX569_.jpg",
+          "smallImg4": "https://m.media-amazon.com/images/I/81bjYDWgt4L._SX569_.jpg",
+          "smallImg5": "https://m.media-amazon.com/images/I/81pMRoVVRqL._SX569_.jpg"
+        }
+      ],
       "title": "REDMI Note 13 Pro+ 5G (World Champions Edition, 512 GB)",
       "description1": "12 GB RAM | 512 GB ROM ",
       "description2": "16.94 cm (6.67 inch) Display",
@@ -1175,11 +1179,15 @@
       "features": true,
       "category": "mobile",
       "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/y/v/-original-imah2nd5rxcgq34u.jpeg?q=70",
-      "smallImg1": "https://m.media-amazon.com/images/I/61AXMjkohIL._SX679_.jpg",
-      "smallImg2": "https://m.media-amazon.com/images/I/71Gg-PaJi+L._SX679_.jpg",
-      "smallImg3": "https://m.media-amazon.com/images/I/71QvopDcKcL._SX679_.jpg",
-      "smallImg4": "https://m.media-amazon.com/images/I/71J7LoSfEFL._SX679_.jpg",
-      "smallImg5": "https://m.media-amazon.com/images/I/71FFPE67mmL._SX679_.jpg",
+      "img": [
+        {
+          "smallImg1": "https://m.media-amazon.com/images/I/61AXMjkohIL._SX679_.jpg",
+          "smallImg2": "https://m.media-amazon.com/images/I/71Gg-PaJi+L._SX679_.jpg",
+          "smallImg3": "https://m.media-amazon.com/images/I/71QvopDcKcL._SX679_.jpg",
+          "smallImg4": "https://m.media-amazon.com/images/I/71J7LoSfEFL._SX679_.jpg",
+          "smallImg5": "https://m.media-amazon.com/images/I/71FFPE67mmL._SX679_.jpg"
+        }
+      ],
       "title": "SAMSUNG Galaxy Z Fold6 5G (Navy, 512 GB)",
       "description1": "12 GB RAM | 512 GB ROM",
       "description2": "19.3 cm (7.6 inch) QXGA+ Display",
