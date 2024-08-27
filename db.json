@@ -19,7 +19,7 @@
         "extraOff": "Extra ₹14901 off",
         "price": 104999,
         "actualPrice": 119900,
-        "discount": 12,
+        "discount": "12% off",
         "offer": "Save extra with combo offers",
         "exchange": "Upto ₹50,000 Off on Exchange",
         "quantity": 1,
