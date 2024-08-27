@@ -4,7 +4,6 @@
       "id": 1,
       "features": true,
       "category": "mobile",
-      "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
       "img": [
         {
           "smallImg1": "https://m.media-amazon.com/images/I/71zFRCcMS2L._SX679_.jpg",
@@ -14,6 +13,7 @@
           "smallImg5": "https://m.media-amazon.com/images/I/611FiI6xN2L._SX679_.jpg"
         }
       ],
+      "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
       "title": "Apple iPhone 15 Plus (Black, 512 GB)",
       "description1": "512 GB ROM",
       "description2": "17.02 cm (6.7 inch) Super Retina XDR Display",
