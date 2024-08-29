@@ -3,6 +3,7 @@
       {
         "id": 1,
         "features": true,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71zFRCcMS2L._SX679_.jpg",
@@ -59,6 +60,7 @@
       },
       {
         "id": 2,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71PjpS59XLL._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71PjpS59XLL._SX679_.jpg",
@@ -115,6 +117,7 @@
       },
       {
         "id": 3,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/m/u/-original-imagtc4hv5qhegyb.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81qlME2wWmL._SX679_.jpg",
@@ -169,6 +172,7 @@
       },
       {
         "id": 4,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/x/h/-original-imagtc3k6zztrhnb.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81fxjeu8fdL._SX679_.jpg",
@@ -223,6 +227,7 @@
       },
       {
         "id": 5,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/619f09kK7tL._SX679_.jpg",
@@ -277,6 +282,7 @@
       },
       {
         "id": 6,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
@@ -331,6 +337,7 @@
       },
       {
         "id": 7,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
@@ -386,6 +393,7 @@
       },
       {
         "id": 8,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SX679_.jpg",
@@ -441,6 +449,7 @@
       },
       {
         "id": 9,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71fVoqRC0wL._SX679_.jpg",
@@ -499,6 +508,7 @@
       },
       {
         "id": 10,
+        "brand":"Apple",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
@@ -559,6 +569,7 @@
       {
         "id": 11,
         "features": true,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/e/q/-original-imahymwzqgbcgcn2.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71Gog1FR3JL._SX569_.jpg",
@@ -621,6 +632,7 @@
       },
       {
         "id": 12,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/y/5/-original-imagwu894yyhyyce.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71aiqeP-APL._SX569_.jpg",
@@ -681,6 +693,7 @@
       },
       {
         "id": 13,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/819sWoSDFRL._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/819sWoSDFRL._SX569_.jpg",
@@ -740,6 +753,7 @@
       },
       {
         "id": 14,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/7169hX0S18L._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/7169hX0S18L._SX569_.jpg",
@@ -800,6 +814,7 @@
       },
       {
         "id": 15,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71NnrsYP63L._AC_UY218_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71NnrsYP63L._SX569_.jpg",
@@ -861,6 +876,7 @@
       },
       {
         "id": 16,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/3/n/-original-imags3bczffagkpc.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81M9+-6f6LL._SX569_.jpg",
@@ -922,6 +938,7 @@
       },
       {
         "id": 17,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/l/j/-original-imagzrfwkeu2zazh.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71VW8LmqqPL._SX569_.jpg",
@@ -983,6 +1000,7 @@
       },
       {
         "id": 18,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/5/f/-original-imagwu9fyya8h6mg.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/819sWoSDFRL._SX569_.jpg",
@@ -1043,6 +1061,7 @@
       },
       {
         "id": 19,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/z/i/-original-imagwubkng4aw75d.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/51Y5h67vgkL._SX679_.jpg",
@@ -1104,6 +1123,7 @@
       },
       {
         "id": 20,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/z/i/-original-imagwubkng4aw75d.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/51Y5h67vgkL._SX679_.jpg",
@@ -1165,6 +1185,7 @@
       {
         "id": 21,
         "features": true,
+        "brand": "SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/y/v/-original-imah2nd5rxcgq34u.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/61AXMjkohIL._SX679_.jpg",
@@ -1237,6 +1258,7 @@
       },
       {
         "id": 22,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/e/8/-original-imahyvntxfrpuw6g.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71RVuBs3q9L._SX679_.jpg",
@@ -1310,6 +1332,7 @@
       },
       {
         "id": 23,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/k/h/-original-imagzm8qmr7qxfhq.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71OXmy3NMCL._SX679_.jpg",
@@ -1383,6 +1406,7 @@
       },
       {
         "id": 24,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71ez69tPl4L._AC_UL320_.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71ez69tPl4L._SX679_.jpg",
@@ -1455,6 +1479,7 @@
       },
       {
         "id": 25,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/n/j/-original-imagztmgmmshbqga.jpeg?q=70",
         "smallImg1": "https://dakauf.eu/wp-content/uploads/2023/08/Galaxy-Fold5-black.jpg",
@@ -1529,6 +1554,7 @@
       },
       {
         "id": 26,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/6/p/-original-imagztmgkjzfsbpj.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71U+YdsvMPL._SX679_.jpg",
@@ -1603,6 +1629,7 @@
       },
       {
         "id": 27,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://assets.mspimages.in/c/tr:h-305,t-true/22866-211-1.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/61Qm5l5juEL._SX679_.jpg",
@@ -1674,6 +1701,7 @@
       },
       {
         "id": 28,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/o/c/-original-imagtnqjmfqxxbj2.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81vqHyDCSCL._SX569_.jpg",
@@ -1740,6 +1768,7 @@
       },
       {
         "id": 29,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/o/j/-original-imagztn8vv8htmyx.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/61-E0V81kBL._SX679_.jpg",
@@ -1814,6 +1843,7 @@
       },
       {
         "id": 30,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/h/j/-original-imahyukdwperbhnh.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/71MBDTglV4L._SX569_.jpg",
@@ -1888,6 +1918,7 @@
       },
       {
         "id": 31,
+        "brand": "MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/q/f/-original-imah2fjd75hkcynr.jpeg?q=70",
         "smallImg1": "https://phonehungers.com/wp-content/uploads/2024/06/Motorola-Moto-G85-Price-in-Pakistan-1.webp",
@@ -1942,6 +1973,7 @@
       },
       {
         "id": 32,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/p/l/-original-imah2fjcxjdjykpc.jpeg?q=70",
         "smallImg1": "https://phonehungers.com/wp-content/uploads/2024/06/Motorola-Moto-G85-Price-in-Pakistan-1.webp",
@@ -1996,6 +2028,7 @@
       },
       {
         "id": 33,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/u/-original-imah2fjd7wfd9ksh.jpeg?q=70",
         "smallImg1": "https://phonehungers.com/wp-content/uploads/2024/06/Motorola-Moto-G85-Price-in-Pakistan-1.webp",
@@ -2050,6 +2083,7 @@
       },
       {
         "id": 34,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/u/-original-imah2fjd7wfd9ksh.jpeg?q=70",
         "smallImg1": "https://phonehungers.com/wp-content/uploads/2024/06/Motorola-Moto-G85-Price-in-Pakistan-1.webp",
@@ -2104,6 +2138,7 @@
       },
       {
         "id": 35,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/c/y/-original-imah27s96vp5z7nh.jpeg?q=70",
         "smallImg1": "https://images.fonearena.com/blog/wp-content/uploads/2024/06/Redmi-Note-13-Pro-Red-1-1024x1004.jpg",
@@ -2164,6 +2199,7 @@
       },
       {
         "id": 36,
+        "brand": "realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/a/r/-original-imah2pgpfmeadck9.jpeg?q=70",
         "smallImg1": "https://adminapi.applegadgetsbd.com/storage/media/large/realme-C63-Jade-Green-3327.jpg",
@@ -2216,6 +2252,7 @@
       },
       {
         "id": 37,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/s/h/-original-imah2pgrrhz2nufs.jpeg?q=70",
         "smallImg1": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/r/e/realme_c63_blue_-1.jpg",
@@ -2268,6 +2305,7 @@
       },
       {
         "id": 38,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70",
@@ -2331,6 +2369,7 @@
       },
       {
         "id": 39,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/h/z/14-civi-mzb0h0iin-xiaomi-original-imahfqjxnrqrxyfg.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/h/z/14-civi-mzb0h0iin-xiaomi-original-imahfqjxnrqrxyfg.jpeg?q=70",
@@ -2394,6 +2433,7 @@
       },
       {
         "id": 40,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/0/4/14-civi-mzb0hd0in-xiaomi-original-imahfqjyhhumkm6n.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/0/4/14-civi-mzb0hd0in-xiaomi-original-imahfqjyhhumkm6n.jpeg?q=70",
@@ -2457,6 +2497,7 @@
       },
       {
         "id": 41,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70",
@@ -2521,6 +2562,7 @@
       },
       {
         "id": 42,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/h/z/14-civi-mzb0h0iin-xiaomi-original-imahfqjxnrqrxyfg.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/h/z/14-civi-mzb0h0iin-xiaomi-original-imahfqjxnrqrxyfg.jpeg?q=70",
@@ -2585,6 +2627,7 @@
       },
       {
         "id": 43,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/0/4/14-civi-mzb0hd0in-xiaomi-original-imahfqjyhhumkm6n.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/0/4/14-civi-mzb0hd0in-xiaomi-original-imahfqjyhhumkm6n.jpeg?q=70",
@@ -2649,6 +2692,7 @@
       },
       {
         "id": 44,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/y/9/0/-original-imahyuhfg2z4fvyh.jpeg?q=70",
         "smallImg1": "https://images.snapmint.com/product_assets/images/000/952/450/large/open-uri20240415-17599-k26aeu?1713173896",
@@ -2704,6 +2748,7 @@
       },
       {
         "id": 45,
+        "brand": "OPPO",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/g/0/h/-original-imahfqws9yjuv4vv.jpeg?q=70",
         "smallImg1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQcv0jTHn8SQ18mjUhn2B-tCBNrg5FCKQpg&s",
@@ -2770,6 +2815,7 @@
       },
       {
         "id": 46,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/g/i/n/-original-imagzhspjy5g8nh3.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/i/n/-original-imagzhspjy5g8nh3.jpeg?q=70",
@@ -2835,6 +2881,7 @@
       },
       {
         "id": 47,
+        "brand": "vivo",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/k/g/j/t3x-5g-v2338-vivo-original-imahyyzaqhgwzfup.jpeg?q=70",
         "smallImg1": "https://miro.medium.com/v2/resize:fit:380/1*_-7WmFDPEgjLGjXnKiz41A.png",
@@ -2901,6 +2948,7 @@
       },
       {
         "id": 48,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/n/i/w/-original-imagzk4mfg6zf2fv.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/711kX064JHL.jpg",
@@ -2966,6 +3014,7 @@
       },
       {
         "id": 49,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/u/-original-imah2fjd7wfd9ksh.jpeg?q=70",
         "smallImg1": "https://phonehungers.com/wp-content/uploads/2024/06/Motorola-Moto-G85-Price-in-Pakistan-1.webp",
@@ -3021,6 +3070,7 @@
       },
       {
         "id": 50,
+        "brand":"realme",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/p/y/12-pro-5g-rmx3842-realme-original-imagxgnhafyjz8rb.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81k8QKxg+jL.jpg",
@@ -3087,6 +3137,7 @@
       },
       {
         "id": 51,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/g/q/5/-original-imahfkf6jcuhhzyb.jpeg?q=70",
         "smallImg1": "https://m.media-amazon.com/images/I/81k8QKxg+jL.jpg",
@@ -3153,6 +3204,7 @@
       },
       {
         "id": 52,
+        "brand":"vivo",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/3/-original-imah27wvna2g9hfc.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/3/-original-imah27wvna2g9hfc.jpeg?q=70",
@@ -3219,6 +3271,7 @@
       },
       {
         "id": 53,
+        "brand":"SAMSUNG",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70",
         "smallImg1": "https://www.jiomart.com/images/product/original/rvjeu2igwa/samsung-galaxy-f14-5g-4gb-ram-128gb-rom-goat-green-smartphone-product-images-orvjeu2igwa-p604461175-0-202309062003.jpg?im=Resize=(420,420)",
@@ -3285,6 +3338,7 @@
       },
       {
         "id": 54,
+        "brand":"MOTOROLA",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/k/9/g34-5g-pb1v0001in-motorola-original-imagwu4r4xze9jwz.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=90&crop=false",
@@ -3351,6 +3405,7 @@
       },
       {
         "id": 55,
+        "brand":"REDMI",
         "category": "mobile",
         "imgSrc": "https://m.media-amazon.com/images/I/71UIZHHo5hL.jpg",
         "smallImg1": "https://m.media-amazon.com/images/I/71UIZHHo5hL.jpg",
@@ -3392,6 +3447,7 @@
       },
       {
         "id": 56,
+        "brand": "nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=90&crop=false",
@@ -3457,6 +3513,7 @@
       },
       {
         "id": 57,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=90&crop=false",
@@ -3522,6 +3579,7 @@
       },
       {
         "id": 58,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=70",
         "smallImg1": "https://images.hindustantimes.com/tech/htmobile4/P39491/heroimage/159833-v2-nothing-phone-2a-mobile-phone-large-1.jpg",
@@ -3587,6 +3645,7 @@
       },
       {
         "id": 59,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=90&crop=false",
@@ -3652,6 +3711,7 @@
       },
       {
         "id": 60,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=90&crop=false",
@@ -3717,6 +3777,7 @@
       },
       {
         "id": 61,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=90&crop=false",
@@ -3782,6 +3843,7 @@
       },
       {
         "id": 62,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/z/g/z/-original-imahfptqbnyebxjg.jpeg?q=90&crop=false",
@@ -3847,6 +3909,7 @@
       },
       {
         "id": 63,
+        "brand":"nothing",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=70",
         "smallImg1": "https://images.hindustantimes.com/tech/htmobile4/P39491/heroimage/159833-v2-nothing-phone-2a-mobile-phone-large-1.jpg",
@@ -3912,6 +3975,7 @@
       },
       {
         "id": 64,
+        "brand":"OPPO",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/t/n/-original-imah2hn8khvuju8s.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/750/900/xif0q/mobile/w/s/o/-original-imah2hn8btrdpvrk.jpeg?q=20&crop=false",
@@ -3977,6 +4041,7 @@
       },
       {
         "id": 65,
+        "brand":"OPPO",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/l/r/-original-imah2hn8vu7zkfgp.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/750/900/xif0q/mobile/w/s/o/-original-imah2hn8btrdpvrk.jpeg?q=20&crop=false",
@@ -4042,6 +4107,7 @@
       },
       {
         "id": 66,
+        "brand":"OPPO",
         "category": "mobile",
         "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/m/1/-original-imah2hn8apxrfhfw.jpeg?q=70",
         "smallImg1": "https://rukminim2.flixcart.com/image/750/900/xif0q/mobile/w/s/o/-original-imah2hn8btrdpvrk.jpeg?q=20&crop=false",
